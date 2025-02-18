@@ -15,7 +15,7 @@ class _AddressScreenState extends State<AddressScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Address Information')),
+      appBar: AppBar(title: Text('Where do you live?')),
       body: Padding(
         padding: EdgeInsets.all(16.0),
         child: Form(

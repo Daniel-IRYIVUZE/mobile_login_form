@@ -14,7 +14,7 @@ class _AccountSecurityScreenState extends State<AccountSecurityScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Account Security')),
+      appBar: AppBar(title: Text('Provide your password')),
       body: Padding(
         padding: EdgeInsets.all(16.0),
         child: Form(

@@ -17,7 +17,7 @@ class _PersonalInfoScreenState extends State<PersonalInfoScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Personal Information')),
+      appBar: AppBar(title: Text('Welcome to IgaThrive')),
       body: Padding(
         padding: EdgeInsets.all(16.0),
         child: Form(
