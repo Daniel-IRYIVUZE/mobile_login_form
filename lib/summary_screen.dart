@@ -4,7 +4,7 @@ class SummaryScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Welcome again')),
+      appBar: AppBar(title: Text("Let's make new Journey with IgaThrive!")),
       body: Center(
         child: Padding(
           padding: EdgeInsets.all(16.0),
